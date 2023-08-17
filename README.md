@@ -12,7 +12,7 @@ Simply open the `index.html` file in a web browser to explore the interactive ca
 
 ## Preview
 ![CASIO fx 82-ms](./Casio.png)
-![CASIO fx 82-ms calc](./Casio calc.png)
+![CASIO fx 82-ms calc](./Casiocalc.png)
 
 ## Contribution
 Contributions and feedback are welcome! If you have ideas to enhance the design or add functionalities, please feel free to submit pull requests.
